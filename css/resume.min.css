@@ -58,13 +58,13 @@ p.lead{
   margin-right:0
 }
 .social-icons a:hover{
-  background-color:#bd5d38
+  background-color:var(--mainRed);
 }
 .dev-icons{
   font-size:3rem
 }
 .dev-icons .list-inline-item i:hover{
-  color:#bd5d38
+  color:var(--mainRed);
  }
  #sideNav .navbar-nav .nav-item .nav-link{
    font-weight:800;
@@ -155,13 +155,13 @@ section.resume-section .resume-item .resume-date{
   background-color:var(--mainRed) !important;
 }
 .text-primary{
-  color:#var(--mainRed) !important;
+  color:var(--mainRed) !important;
 }
 a{
   color:var(--mainRed);
 }
 a:active,a:focus,a:hover{
-  color:#824027
+  color:#ff0000
 }
 
 #icons:hover{
