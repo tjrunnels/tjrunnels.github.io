@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130287704-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-130287704-1');
+    </script>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Tom Runnels Portfolio and Resume">
+    <meta name="author" content="Tom Runnels">
+
+    <title>Tom Runnels</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
+    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/resume.min.css" rel="stylesheet">
+
+  </head>
+
+  <body id="page-top">
+
+    <!-- #region navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">
+        <span class="d-block d-lg-none">Tom Runnels</span>
+        <span class="d-none d-lg-block">
+          <img class=" img-profile rounded-circle mx-auto mb-2" src="img/Runn.jpg" style="width:150px; height: 150px" alt="">
+        </span>
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#about">Intro</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#mission">Mission</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#progress">Progress</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#employment">Employment</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#skills">Other Skills</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="./portfolio.html">Portfolio</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <!-- #endregion navbar -->
+
+
+    <div class="container-fluid p-0">
+
+      <!-- #region intro -->
+      <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
+        <div class="my-auto">
+          <h1 class="mb-0">Tom
+            <span class="text-primary">Runnels</span>
+          </h1>
+          <div class="subheading mb-5">  <a href="mailto:tom@forwardtechfl.com">tom@forwardtechfl.com</a>  · Jupiter, FL · (561) 906-9583 ·
+           <a href="https://www.forwardtechfl.com">www.forwardtechfl.com</a>
+          </div>
+          <!-- tomdo -->
+          <p class="lead mb-5">This website is not intended to be a marketing tool of my business ForwardTech Solutions.  This is a personal record/resume/blog-of-sorts
+            of my personal development and journey in the world of entreprenurship.  For more information on ForwardTech, check out <a href="https://www.forwardtechfl.com">the website</a>
+            Otherwise, enjoy learning more about me.</p>
+          <p class="lead mb-5">I am a graduate of Liberty University with a love and passion for technology and software development. While a
+            student at Liberty and in high school, I have used the opportunities and resources available to me to grow my
+            knowledge in a variety of development disciplines.  Now, I am diving into the world of business and entreprenurship by founding
+            ForwardTech Solutions, so I can hone my specialized skills, learn as much as I can, and therefore live the effective life I am called to.</p>
+          <div class="social-icons">
+            <a href="https://www.linkedin.com/in/tom-runnels-331a94145/" target="_blank">
+              <i class="fab fa-linkedin-in"></i>
+            </a>
+            <a href="https://github.com/tjrunnels/" target="_blank">
+              <i class="fab fa-github"></i>
+            </a>
+            <a href="https://www.facebook.com/tommy.runnels" target="_blank">
+              <i class="fab fa-facebook-f"></i>
+            </a>
+            <a href="https://calendly.com/tjrunnels" target="_blank">
+              <i class="fas fa-clock"></i>
+            </a>
+          </div>
+        </div>
+      </section>
+      <!-- #endregion intro -->
+
+      <hr class="m-0">
+
+      <!-- #region mission -->
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="mission">
+        <div class="my-auto">
+          <h2 class="mb-5">My Mission</h2>
+
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Goal</h3>
+              <div class="subheading mb-3">- To found, lead, and grow software products -</div>
+              <p style="">Whether it be SaaS, mobile platform,
+                an API, or some other medium, I feel the calling on my life to be an entreprenur, and
+                what better way then by being a part of the exciting and cutting-edge world of software 
+                that has inspired me my whole life.   What ideas, products, or businesses I will eventually attempt
+                are unknown at this time, so I always remain sensative to the pain points, developments, and trends
+                of the world around me. 
+              </p>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Skills</h3>
+              <p>To reach my goal in a humble way, I have clearly defined and resolved to developing myself. 
+              Focusing on these 3 skills, at the expense of an easy job or reliable paycheck, will set me on
+              the path towards the effective man God has called me to be, specifically in the areas concerning my goal</p>
+              <p>These skills are...</p>
+              <div class="subheading mb-3">1. Ability to identify problems and engineer solutions</div>
+              <div class="subheading mb-3">2. Leadership, of others and myself</div>
+              <div class="subheading mb-3">3. Techincal abilities and software engineering prowess</div>
+
+              <p>It's more for myself than anyone, but feel free to follow their progress below!</p>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </section>
+      <!-- #endregion mission -->
+
+
+
+      <hr class="m-0">
+
+      <!-- #region Progress -->
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="progress">
+        <div class="my-auto">
+          <h2 class="mb-5">Progress</h2>
+
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">1. Indentify Problems, Engineer Solutions</h3> <br/>
+                  <div class="subheading mb-3">Hannah's Home Auction App</div>
+                  <p>While this project was more 'engineering solutions' than it was 'identifing problems', I still had to push my critial thinking.
+                    When the client approached me, the idea was fairly undefined.  Together, we thought through the app's values from the perspective
+                    of our typical customer, and defined features from there.  We also had to define and work around our constraints, which with 
+                    and older user demographic, were a lot.  In the end though, the app the scope and feature set of the app served our problem extreamly well </p> 
+                    <p><a href="./portfolio.html#hannahshome">See this project in Portfolio</a></p>
+                    <br/>
+                    <br/>
+
+                  <!-- <div class="subheading mb-3">Blog posts about Problems, Solutions</div> -->
+
+
+                  <!-- <div class="subheading mb-3">project 2</div>
+                  <p style="">placeholder. 
+                  </p> -->
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">2. Leadership</h3> <br/>
+
+                  <div class="subheading mb-3">TFBC Young Adults</div>
+                  <p>Since moving back to Florida, I have taken a leadership role at my local church.  With the churches refocus on it's 
+                    mission, and a growing demographic of young adults in our area, more than ever has our church needed to provide an
+                    environment that welcomes, develops, and provides opportunity to young adults.  Working closely with my pastors, 
+                    I have formed a weekly bible study and we are collaboratively developing systems to best capture the souls and God-given-gifts of 
+                    those around us.  I have been blessed with the opprounity of being a leader in this effort. 
+                  </p> <br/>
+                  
+                  <div class="subheading mb-3">ForwardTech Solutions Inc.</div>
+                  <p>At the moment, ForwardTech has no employees.  But though it may be seen as cliche, stepping out on my own has taught me an amazing
+                     amount of leadership over self.  Motivation, focus, and time management are difficult when there’s no manager
+                    sitting behind you or teacher defining your due date.  Being very intentional to stick to my schedule and 
+                    always push myself toward more has stretched my leadership skills in ways I never imagined.    
+                    <br/><i>“He who rules his spirit [is better] than he who takes a city” Proverbs 16:32</i>
+                  </p>
+
+            </div>
+
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">3. Technical Abilities</h3> <br/>
+
+                  <div class="subheading mb-3">Hannah's Home Auction App</div>
+                  <p>The Auction App really stretched my technical abilities up to that point.  It was the first project I'd ever worked on
+                    to use one of the big cloud providers, in this case, Amazon Web Services.  A large part of the project was learning what
+                    AWS offered, which tools to use, and how to use them.  I was able to learn and create the entire backend of the project.  
+                    Not only was it a great learning experience, but it was a huge confidence builder in my technical ability skill.  
+                    It also led me to sit for and recieve my Cloud Practitioner certification</p>
+                    <p><a href="./portfolio.html#hannahshome">See this project in Portfolio</a></p>
+            </div>
+          </div>
+
+
+        </div>
+
+      </section>
+      <!-- #endregion progress -->
+
+
+
+      <hr class="m-0">
+
+      <!-- #region employment -->
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="employment">
+        <div class="my-auto">
+          <h2 class="mb-5">Employment</h2>
+
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Software Development Consultant / Founder</h3>
+              <div class="subheading mb-3">ForwardTech Solutions Inc.</div>
+              <p>Founder of ForwardTech, which provides software development and maintenance services to the local South Florida area.  As a single-man shop, I work on everything from client interactions to accounting to time and resource management, to, of course, software development.</p>
+              <p>Already my hunger to be an entreprenur and hone my specialized skills in Computer Science has been filled with a number of exciting projects that I never would have had the opprounity to be apart of in a typical programming job.  Full stack development, database maintenance and transfer, and on-site IT and networking in just the first 6 months.  Very excited to see what the future holds!</p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">July 2020 - Current</span>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Junior Web Developer</h3>
+              <div class="subheading mb-3">Stimulus Advertising</div>
+              <p>Worked on the development, upkeep, and maintenance of websites using the Joomla CMS.  I have had the privilage of wearing many hats in this role, having had a role in every part of the web development life cycle.
+                I have sat in on client meetings, worked with our graphic designers on initial designs, spent lots of time on website development, incorporated client feedback, and continue to maintain past sites.</p>
+              <p>The most exciting project I've worked on at Stimulus was the development of a mobile app.  As the only devleoper in the office, I headed the development of a cross-platform mobile app using React Native.  Check it out below!</p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">October 2019 - March 2020</span>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Capstone Team Member</h3>
+              <div class="subheading mb-3">Liberty CS Capstone Thailand team</div>
+              <p>During our senior year, Liberty computer science students are grouped into a number of differnt teams and tasked with organizing our team structure,
+                 determing a list of deliverables based on a passed-down project, designing and upkeeping a rigid <strong>Trello</strong> board, and developing the client's software.</p>
+              <p>I have been a member of the three-member Thailand team.  Our project is a third year school management software built using the VFront framework.  Personally, I have been very invloved in the
+                back-end of our project.  I have deployed the <strong>LAMP stack</strong> and our software to several Virtual Machines, including an on-campus server and a <strong>Microsoft Azure</strong> server, and have been in charge of maintaining
+                them when it seems that everything that can go wrong has!  You can <a href="http://thailand-beta-19-20.eastus2.cloudapp.azure.com/Thailand-19-20/vfront-code-cld/">check out our project here</a> </p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">August 2019 - Present</span>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">IT Development Team Intern</h3>
+              <div class="subheading mb-3">Intech Investment Management LLC</div>
+              <p>Worked two summers as a member of the companies’ development team. As my first exposure to professional work, I learned what a software development team looked like,
+                how to conduct and participate in meetings, and more. Work-wise I helped to write internal applications, including a solo project of creating an internal C# .NET
+                 webpage that updated from a database that I created and populated with up-to-date intraday data, and reconstructing a python automated email program to work alongside the webpage</p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">May 2018 - Jul 2018 <br /> May 2017 - Jul 2017</span>
+            </div>
+          </div>
+
+
+
+        </div>
+
+      </section>
+      <!-- #endregion employment -->
+
+      <hr class="m-0">
+
+      <!-- #region education -->
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="education">
+        <div class="my-auto">
+          <h2 class="mb-5">Education</h2>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Liberty University</h3>
+              <div class="subheading mb-3">Lynchburg, VA</div>
+              <p>
+                </br><strong>Bachelor of Science in Computer Science </strong>
+                </br>Expected Graduation: May 2020
+                </br>GPA: 3.5
+                </br>Scored in the 90th percentile on the ETS Computer Science Major Field Test
+              </p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">August 2016 - May 2020</span>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Jupiter Community High School</h3>
+                <div class="subheading mb-3">Jupiter, FL</div>
+              <div class="subheading mb-3"></div>
+              <p>
+              </br> Graduated: May 2016
+              </br> Graduate of the 4-year Engineering Program
+              </br> VP then President of the Programming Club
+            </p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">August 2012 - May 2016</span>
+            </div>
+
+          </div>
+
+        </div>
+      </section>
+      <!-- #endregion education -->
+
+
+
+      <hr class="m-0">
+
+      <!-- #region skills -->
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
+        <div class="my-auto">
+          <h2 class="mb-5">Other Skills</h2>
+
+          <div class="subheading mb-3">Certifications</div>
+          <ul class="fa-ul mb-0">
+            <li>
+              <img src="img/aws-certified-cloud-practitioner.png" id="icons_added" title="React Native" style="width:70px; height:70px;"></img>
+               Amazon Web Services Certified Cloud Practitioner - Jan 2021</li>
+          </ul>
+
+          <br/>
+
+          <div class="subheading mb-3">Programming Languages &amp; Tools</div>
+          <ul class="list-inline dev-icons">
+
+            <li class="list-inline-item">
+              <img src="img/react.png" id="icons_added" title="React Native" style="width:57px; height:50px;"></img>
+            </li>
+            <li class="list-inline-item">
+              <img src="img/cs.png" id="icons_added" title="C Sharp" style="width:50px; height:55px;"></img>
+            </li>
+            <li class="list-inline-item">
+              <img src="img/joom2.jpg" id="icons_added" title="Joomla" style="width:50px; height:50px;"></img>
+            </li>
+            <li class="list-inline-item">
+              <img src="img/github.png" id="icons_added" title="GitHub" style="width:50px; height:50px;"></img>
+            </li>
+            <li class="list-inline-item">
+              <img src="img/img_js.png" id="icons_added" title="JavaScript" style="width:50px; height:57px;"></img>
+            </li>
+            <li class="list-inline-item">
+              <img src="img/html5.png" id="icons_added" title="HTML5" style="width:70px; height:70px;"></img>
+            </li>
+            <li class="list-inline-item">
+                <img src="img/CSS3.png" id="icons_added" title="CSS3" style="width:50px; height:70px;"></img>
+            </li>
+            <!-- <li class="list-inline-item">
+                <img src="img/npm.png" id="icons_added" title="npm" style="width:50px; height:50px;"></img>
+            </li> -->
+            <!-- <li class="list-inline-item">
+                <img src="img/azure.png" id="icons_added" title="Microsoft Azure" style="width:50px; height:40px;"></img>
+            </li> -->
+            <li class="list-inline-item">
+                <img src="img/cpp.png" id="icons_added" title="C++" style="width:50px; height:55px;"></img>
+            </li>
+            <li class="list-inline-item">
+                <img src="img/vs.png" id="icons_added" title="Visual Studios 2017" style="width:50px; height:50px;"></img>
+            </li>
+            <li class="list-inline-item">
+              <img src="img/unity.png" id="icons_added" title="Unity3D" style="width:50px; height:50px;"></img>
+            </li>
+
+          </ul>
+
+          <div class="subheading mb-3">Skills</div>
+          <ul class="fa-ul mb-0">
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Complex Algorithms &amp; Data Structures</li>
+
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              App deployment &amp; The LAMP Stack</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Relational Databases</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Working with and/or Refactoring legacy code</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Strong Math Skills (Discrete Mathematics and Linear Alegbra) </li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Web Design &amp; Development</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Front End &amp; Mobile</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Adobe Creative Suite (Photoshop, Illustrator, Premiere)</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Team Software Development </li>
+
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Written &amp; Verbal Communication</li>
+          </ul>
+        </div>
+      </section>
+      <!-- #endregion skills -->
+
+
+      <hr class="m-0">
+
+      <!-- #region interests -->
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
+        <div class="my-auto">
+          <h2 class="mb-5">Interests</h2>
+          <p class="mb-0">In terms of hobbies, I like to keep my life exciting with a variety of activities.
+            This includes previously being a part of an improvisational comedy group, discussing and practicing market investing
+            with a group of friends on a dedicated discord server, and trying to rediscover surfing after moving back to Florida.
+          </p> <br />
+          <p class="mb-0">When I'm not looking to be too adventurous, however, I like to fall back to my typical tech nerd loves.
+            I follow the news of the video game industry quite religiously, and like to develop small games recreationally.
+            I have built my own and 3 friends' computers, and am always keeping up to date with the latest rumors and releases of consumer electronics.
+          </p> <br />
+          <p class="mb-0">I also like to spend time where my programming career began, learning new tools online.  I like to explore
+            languages and frameworks that I find interesting to create mini projects.  While most of this I have nothing to show for, some projects have come from
+            or have been made possible from this, such as my mobile game Skiii from messing around with Unity or the Glenwood app from learning React Native.</p>
+        </div>
+      </section>
+      <!-- #endregion interests -->
+
+
+      <hr class="m-0">
+
+
+
+  <!-- #region portfolio -->
+  
+  <section class="p=portfolio-section p-3 p-lg-5 d-flex flex-column" id="portfolio">
+
+  <section class="p=0">
+    <div class="my-auto">
+      <h2 class="mb-5">Portfolio</h2>
+        <div class="resume-item d-flex flex-column flex-md-row mb-0">
+          <div class="resume-content mr-auto">
+            <h3 class="mb-0" id="Research"><a href="./portfolio.html">See a more detailed portfolio here</a></h3>
+          </div>
+
+      </div>
+    </div>
+    </section>
+
+    <br/>
+    <br/>
+
+  <!-- #endregion portfolio -->
+
+
+
+<!-- #region scripts -->
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/resume.min.js"></script>
+
+<!-- #endregion scripts -->
+
+  </body>
+
+</html>
