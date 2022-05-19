@@ -1,0 +1,26 @@
+.gridLinks {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+}
+
+.gridLinks a {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.linkguy {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.gridThree {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+}
+
+.imgThree {
+    box-shadow: none;
+    border: 1px solid #ccc;
+}
