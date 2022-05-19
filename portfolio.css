@@ -24,3 +24,11 @@
     box-shadow: none;
     border: 1px solid #ccc;
 }
+
+img {
+    box-shadow: none!important;
+}
+
+.borderplz {
+    border: 1px solid #ccc;
+}
